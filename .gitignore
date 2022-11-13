@@ -49,6 +49,19 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
+# ExternalActors Files
+Content/__ExternalActors__/
+
+# ExternalObjects Files
+Content/__ExternalObjects__/
+
+# HoloLens Files
+Config/HoloLens/
+
+# HLOD Files
+Content/ActionRoguelike/Maps/TestLevel_HLOD0_Instancing.uasset
+
+
 # Builds
 Build/*
 
