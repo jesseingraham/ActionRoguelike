@@ -29,7 +29,7 @@ protected:
 	UPROPERTY(visibleAnywhere)
 	UStaticMeshComponent* BaseMesh;
 
-	UPROPERTY(visibleAnywhere)
+	UPROPERTY(visibleAnywhere, BlueprintReadOnly)
 	UStaticMeshComponent* LidMesh;
 
 public:
